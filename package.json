@@ -1,0 +1,28 @@
+{
+  "name": "bradon_allison_codes",
+  "version": "1.0.0",
+  "description": "Brandon Allison Coding Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonJAllison/resume_npm_package.git"
+  },
+  "keywords": [
+    "brandon",
+    "resume",
+    "code"
+  ],
+  "author": "Brandon Allison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandonJAllison/resume_npm_package/issues"
+  },
+  "homepage": "https://github.com/BrandonJAllison/resume_npm_package#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}
