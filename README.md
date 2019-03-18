@@ -1,2 +1,2 @@
 # resume_npm_package
-My Resume Written as an npm package
+This is my resume, written as an npm package.
